@@ -27,6 +27,11 @@ body {
 }
 
 @media (max-width:480px) { 
+    
+    body {
+        overflow: hidden;
+    }
+    
     .grid-col {
         min-height: 100vh;
     }
