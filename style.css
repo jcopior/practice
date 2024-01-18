@@ -28,7 +28,23 @@ body {
 
 @media (max-width:480px) { 
     .grid-col {
-        min-height: 100%;
+        min-height: 100vh;
+    }
+
+    .join-us {
+        height: 250px;
+    }
+
+    .subscription {
+        height: 200px;
+        border-radius: none;
+        box-shadow: none;
+    }
+
+    .why-us {
+        height: 230px;
+        border-radius: none;
+        box-shadow: none;
     }
 
     .join-us h2 {
