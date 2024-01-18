@@ -40,7 +40,7 @@ body {
 
     .join-us {
         height: 300px;
-        font-size: 16px;
+        font-size: 20px;
     }
 
     .join-us h2 {
@@ -51,14 +51,14 @@ body {
         height: 230px;
         border-radius: none;
         box-shadow: none;
-        font-size: 16px;
+        font-size: 20px;
     }
 
     .why-us {
         height: 260px;
         border-radius: none;
         box-shadow: none;
-        font-size: 16px;
+        font-size: 20px;
         padding: 10px;
     }
 
