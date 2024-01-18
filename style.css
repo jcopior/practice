@@ -29,34 +29,36 @@ body {
 @media (max-width:480px) { 
     
     body {
-        overflow: hidden;
+
     }
     
     .grid-col {
         min-height: 100vh;
+        overflow: hidden;
     }
 
     .join-us {
-        height: 310px;
+        height: 300px;
         font-size: 20px;
     }
 
     .join-us h2 {
-        margin-top: 15px;
+        margin-top: 20px;
     }
 
     .subscription {
-        height: 240px;
+        height: 230px;
         border-radius: none;
         box-shadow: none;
         font-size: 20px;
     }
 
     .why-us {
-        height: 270px;
+        height: 260px;
         border-radius: none;
         box-shadow: none;
         font-size: 20px;
+        padding: 10px;
     }
 
     .row-container {
