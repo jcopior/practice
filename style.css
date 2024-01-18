@@ -32,19 +32,22 @@ body {
     }
 
     .join-us {
-        height: 250px;
+        height: 300px;
+        font-size: 20px;
     }
 
     .subscription {
-        height: 200px;
-        border-radius: none;
-        box-shadow: none;
-    }
-
-    .why-us {
         height: 230px;
         border-radius: none;
         box-shadow: none;
+        font-size: 20px;
+    }
+
+    .why-us {
+        height: 260px;
+        border-radius: none;
+        box-shadow: none;
+        font-size: 20px;
     }
 
     .join-us h2 {
