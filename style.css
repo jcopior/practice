@@ -30,7 +30,7 @@ body {
     
     body {
         height: 100vh;
-        overflow: hidden;
+        overflow:scroll;
 
     }
     
@@ -141,11 +141,11 @@ body {
     background-color: #63dcd2;
     color: #fff;
     padding: 20px;
-    overflow: hidden;
     width: 100%;
     border-bottom-right-radius: 5px;
 }
 
 .why-us h2 {
     margin-bottom: 10px;
+    padding-bottom: 10px;
 }
