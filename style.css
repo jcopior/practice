@@ -28,7 +28,12 @@ body {
 
 @media (max-width:480px) { 
     .grid-col {
-        height: 100vh;
+        min-height: 100vh;
+        overflow: hidden;
+    }
+
+    .join-us h2 {
+        margin-top: 70px;
     }
 
     .row-container {
