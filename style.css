@@ -41,6 +41,10 @@ body {
         font-size: 20px;
     }
 
+    .join-us h2 {
+        margin-top: 20px;
+    }
+
     .subscription {
         height: 230px;
         border-radius: none;
@@ -53,10 +57,6 @@ body {
         border-radius: none;
         box-shadow: none;
         font-size: 20px;
-    }
-
-    .join-us h2 {
-        margin-top: 10px;
     }
 
     .row-container {
