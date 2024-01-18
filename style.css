@@ -39,7 +39,7 @@ body {
     }
 
     .join-us {
-        height: 300px;
+        height: 250px;
         font-size: 17px;
     }
 
@@ -48,14 +48,14 @@ body {
     }
 
     .subscription {
-        height: 230px;
+        height: 200px;
         border-radius: none;
         box-shadow: none;
         font-size: 17px;
     }
 
     .why-us {
-        height: 260px;
+        height: 230px;
         border-radius: none;
         box-shadow: none;
         font-size: 17px;
