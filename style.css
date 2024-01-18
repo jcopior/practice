@@ -29,17 +29,18 @@ body {
 @media (max-width:480px) { 
     
     body {
+        height: 100vh;
+        overflow: hidden;
 
     }
     
     .grid-col {
-        min-height: 100vh;
-        overflow: hidden;
+        min-height: 100%;
     }
 
     .join-us {
         height: 300px;
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .join-us h2 {
@@ -50,14 +51,14 @@ body {
         height: 230px;
         border-radius: none;
         box-shadow: none;
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .why-us {
         height: 260px;
         border-radius: none;
         box-shadow: none;
-        font-size: 20px;
+        font-size: 16px;
         padding: 10px;
     }
 
