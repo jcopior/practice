@@ -37,6 +37,7 @@ body {
     
     .grid-col {
         min-height: 100%;
+        overflow:hidden;
     }
 
     .join-us {
@@ -69,7 +70,6 @@ body {
         box-shadow: none;
         font-size: 17px;
         padding: 10px;
-        overflow: hidden;
     }
 
     .row-container {
